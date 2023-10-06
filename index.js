@@ -21,7 +21,7 @@ client.initialize();
 
 
 const headers = {
-    'Authorization': `Bearer ${process.env.OPENAI_KEY}`,
+    'Authorization': `Bearer ${process.env.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}`,
     'Content-Type': 'application/json'
 }
 
